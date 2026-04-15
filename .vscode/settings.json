@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "C:/Users/hi/OneDrive/Desktop/ai-resume-system"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:/Users/hi/OneDrive/Desktop/ai-resume-system"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
